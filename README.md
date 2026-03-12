@@ -65,7 +65,7 @@
 >
 > **🔧 Technologies:** Flutter, Firebase
 
-> 💡 *More projects in the works — stay tuned!* 🌱
+
 
 ---
 
